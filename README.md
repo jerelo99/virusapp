@@ -6,10 +6,9 @@ Matana Unverisity <br>
 
 <h2>Latar Belakang</h2>
 <p>
-Aplikasi yang akan saya bangun bernama “StreamerKit” mengenai artikel
-Live Streamer. Halaman yang ditampilkan terdiri dari halaman awal dan halaman
-artikel. Pada saat aplikasi dijalankan, akan muncul daftar Live Streamer.
-Kemudian saat dipilih akan menampilkan artikel mengenai si Live Streamer
-tersebut.
-
+Aplikasi yang saya buat ini bernama “VirusApp”, aplikasi ini berisi
+tentang info mengenai virus-virus yang terjadi di dunia ini, terkhusus virus Covid-
+19. Dalam aplikasi ini user juga akan diberitahu mengenai bagaimana kita untuk
+menjalankan protokol kesehatan untuk menangani Covid-19 dan langkah-langkah
+apa saja yang harus dilakukan.
 </p>
