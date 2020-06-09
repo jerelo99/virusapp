@@ -1,16 +1,15 @@
-# virusapp
+<h1>Virus App </h1>
+NIM : 20175520009 <br>
+Nama : Jeremy Carlo <br>
+Teknik Informatika <br>
+Matana Unverisity <br>
 
-A new VirusApp application.
+<h2>Latar Belakang</h2>
+<p>
+Aplikasi yang akan saya bangun bernama “StreamerKit” mengenai artikel
+Live Streamer. Halaman yang ditampilkan terdiri dari halaman awal dan halaman
+artikel. Pada saat aplikasi dijalankan, akan muncul daftar Live Streamer.
+Kemudian saat dipilih akan menampilkan artikel mengenai si Live Streamer
+tersebut.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</p>
